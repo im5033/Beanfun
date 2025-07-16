@@ -157,7 +157,7 @@ export default {
   }
 }
 ```
-> 詳細完整程式碼請參考本專案 `src/index.js`。
+> 詳細完整程式碼請參考本專案 `cf/index.js`。
 
 ---
 
